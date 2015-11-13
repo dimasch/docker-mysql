@@ -1,5 +1,5 @@
 mysql:
-  image: komplizierte/docker-mysql:master
+  image: komplizierte/docker-mysql:latest
   ports:
    - "3306:3306"
   environment:
