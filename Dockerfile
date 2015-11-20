@@ -1,4 +1,4 @@
-FROM mysql:latest
+FROM mysql:5.6
 MAINTAINER Dmitry Schegolikhin <d.shegolihin@gmail.com>
 
 # Let the conatiner know that there is no tty
